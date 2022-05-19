@@ -1,0 +1,36 @@
+{
+  "title": "Coday",
+  "name": "Maisonneuve Aymeric",
+  "ascii": "coday",
+  "social": {
+    "github": "Bosseur31",
+    "instagram": "aymeric_mai"
+  },
+  "email": "maisonneuve.aymeric@gmail.com",
+  "ps1_hostname": "coday",
+  "ps1_username": "visiteur",
+  "repo": "https://github.com/Bosseur31",
+  "resume_url": "https://cloud.aymeric-mai.fr/index.php/s/ggKwbcKyJJmBK2w",
+  "business_url": "http://coday.fr",
+  "business": "Coday",
+  "colors": {
+    "light": {
+      "background": "#FBF1C9",
+      "foreground": "#3C3836",
+      "yellow": "#D79921",
+      "green": "#98971A",
+      "gray": "#7C6F64",
+      "blue": "#458588",
+      "red": "#CA2124"
+    },
+    "dark": {
+      "background": "#1c1c1c",
+      "foreground": "#EBDBB2",
+      "yellow": "#D79921",
+      "green": "#98971A",
+      "gray": "#A89984",
+      "blue": "#458588",
+      "red": "#CA2124"
+    }
+  }
+}
