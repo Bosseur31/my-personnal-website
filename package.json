@@ -1,11 +1,11 @@
 {
-  "name": "liveterm",
+  "name": "coday",
   "version": "0.1.0",
   "license": "MIT",
-  "author": "Vincent Wu <contact@wensenwu.com> (https://cveinnt.com)",
+  "author": "Aymeric MAISONNEUVE",
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "next build && next export",
     "start": "next start",
     "lint": "next lint",
     "prepare": "husky install"

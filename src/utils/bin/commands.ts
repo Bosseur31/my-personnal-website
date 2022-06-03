@@ -137,7 +137,7 @@ export const emacs = async (args?: string[]): Promise<string> => {
  */
 
 export const sudo = async (args?: string[]): Promise<string> => {
-  return `Permission refusé: de grand pouvoir inplique de grande responsabilité ? `;
+  return `Permission refusée: un grand pouvoir inplique de grandes responsabilités ? `;
 };
 
 // Banner
@@ -177,8 +177,8 @@ C:::::C              o::::o     o::::od:::::d     d:::::d  a::::aaaa::::::a    y
 
 Taper 'me' pour un peu mieux me connaitre.
 Taper 'cv' pour obtenir mon CV format PDF
-Taper 'repo' ou cliquer <u><a class="text-light-blue dark:text-dark-blue underline" href="${config.repo}" target="_blank">ICI</a></u> pour voir mes projets disponible sur Github.
-Taper 'projects' pour voir tout mes projet github directment sur le terminal.
-Taper 'help' pour voir plein d'autre commandes possibles.
+Taper 'repo' ou cliquer <u><a class="text-light-blue dark:text-dark-blue underline" href="${config.repo}" target="_blank">ICI</a></u> pour voir mes projets disponibles sur Github.
+Taper 'projects' pour voir tout mes projets github directment sur le terminal.
+Taper 'help' pour voir plein d'autres commandes possibles.
 `;
 };
