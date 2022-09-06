@@ -35,6 +35,7 @@ Bienvenu sur mon site !
 Apprenez en plus sur moi :
 'me' - un tres court CV.
 'cv' - mon CV complet format PDF.
+'email' - pour me contacter.
 'github' - mon github.`;
 };
 
@@ -176,7 +177,8 @@ C:::::C              o::::o     o::::od:::::d     d:::::d  a::::aaaa::::::a    y
                                                                                                                                                                                                
 
 Taper 'me' pour un peu mieux me connaitre.
-Taper 'cv' pour obtenir mon CV format PDF
+Taper 'cv' pour obtenir mon CV format PDF.
+Taper 'email' pour me contacter
 Taper 'repo' ou cliquer <u><a class="text-light-blue dark:text-dark-blue underline" href="${config.repo}" target="_blank">ICI</a></u> pour voir mes projets disponibles sur Github.
 Taper 'projects' pour voir tout mes projets github directment sur le terminal.
 Taper 'help' pour voir plein d'autres commandes possibles.
